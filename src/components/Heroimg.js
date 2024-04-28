@@ -10,7 +10,7 @@ const Heroimg = () => {
 
         </div>
         <div className="content">
-            <p>HI ,I'M A FREELANCER.</p>
+            <p>HI ,I'M RAHUL PUJARI</p>
          <h1>React Developer.</h1>
          <div>
             <Link to="https://drive.google.com/file/d/1RRkbw_PZTIKHIo5A0D-bz3BYL31GNUdZ/view?usp=sharing" className="btn" target="_blank">Resume</Link>
